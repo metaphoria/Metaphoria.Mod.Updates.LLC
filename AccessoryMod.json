@@ -1,6 +1,5 @@
 {
     "version": "2.1.0",
-    "changelog": "Updated Stuff",
-    "url": "url",
-    "managedFilesAndFolders": ["AccessoryMod"]
+    "changelog": "## New Features\n- Added the option to remove the sunglasses and watch from The Tropical Islander",
+    "url": "https://metaphoria.github.io/AccessoryMod_v2.1.0.zip"
 }
