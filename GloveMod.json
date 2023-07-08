@@ -1,6 +1,5 @@
 {
     "version": "2.1.0",
-    "changelog": "## Test\n- Added cool stuff \n- Added other cool stuff \n ## Test\n- Testing uno, dos, tres",
-    "url": "https://metaphoria.github.io/GloveMod_v2.1.0.zip",
-    "managedFilesAndFolders": ["GloveMod"]
+    "changelog": "## New Features\n- Added stuff\n\n## Bug Fixes\n- Added other stuff\n\n## Bug Fixes\n- Fixed some stuff",
+    "url": "https://metaphoria.github.io/GloveMod_v2.1.0.zip"
 }
