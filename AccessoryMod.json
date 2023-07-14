@@ -1,5 +1,5 @@
 {
-    "version": "2.1.0",
-    "changelog": "## New Features\n- Added options to remove the sunglasses and watch from The Tropical Islander",
-    "url": "https://metaphoria.github.io/AccessoryMod_v2.1.0.zip"
+    "version": "2.1.1",
+    "changelog": "## Bug Fixes\n- Fixed the clipping issue when combining accessory options and glove options for The Tropical Islander.",
+    "url": "https://metaphoria.github.io/AccessoryMod_v2.1.1.zip"
 }
