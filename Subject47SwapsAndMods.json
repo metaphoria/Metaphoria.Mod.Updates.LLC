@@ -1,5 +1,5 @@
 {
     "version": "1.5.1",
-    "changelog": "## Bug Fixes\n- Converted the unlockable options to JSON patches to allow compatibility with other unlockable mods\n- Fixed the footsteps not swapping correctly when modifiying the unlockable version of Subject 47\n- All suit swap options now modify the original suit's footsteps as well",
+    "changelog": "## Bug Fixes\n- Converted the unlockable options to JSON patches to allow compatibility with other unlockable mods\n- Fixed the footsteps not swapping correctly when modifying the unlockable version of Subject 47\n- All suit swap options now modify the original suit's footsteps as well",
     "url": "https://metaphoria.github.io/Subject47SwapsAndMods_v1.5.1.zip"
 }
