@@ -1,0 +1,5 @@
+{
+    "version": "1.3.1",
+    "changelog": "## Bug Fixes\n- Converted the unlockable options to JSON patches to allow compatibility with other unlockable mods.",
+    "url": "https://metaphoria.github.io/WinterSuitSwapsAndMods_v1.3.1.zip"
+}
