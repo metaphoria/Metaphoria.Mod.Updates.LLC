@@ -1,5 +1,5 @@
 {
-    "version": "2.1.1",
-    "changelog": "## Bug Fixes\n- Fixed crash on load when using the Tactical Wetsuit on Hawke's Bay after removing the gloves.",
-    "url": "https://metaphoria.github.io/GloveMod_v2.1.1.zip"
+    "version": "2.2.0",
+    "changelog": "## New Features\n- Added glove options for the Trendy Tourist Suit\n- Added glove options for Subject 47",
+    "url": "https://metaphoria.github.io/GloveMod_v2.2.0.zip"
 }
